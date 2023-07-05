@@ -1,0 +1,33 @@
+@import url(chrome://resources/css/roboto.css);
+
+body {
+  font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+  font-size: 81.25%;
+}
+
+button {
+  font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+}
+
+.center-links {
+  display: flex;
+  justify-content: right;
+}
+
+h1 {
+  text-align: right;
+}
+
+id.rot {
+  justify-content: center;
+}
+
+.hyperlinks {
+  display: flex;
+  justify-content: center;
+}
+
+.opa input[type="text"] {
+  border-radius: 20px;
+  padding: 10px;
+}
